@@ -1,6 +1,6 @@
 # **IICA FabLab**
 
-## En este repositorio se encontrará la documentación de los proyectos realizados en el FabLab los cuales se enfocan en la innovación en agricultura digital y la industria 4.0 como parte del programa de puertas abiertas del IICA.
+## Este repositorio se creó como parte del programa de puertas abiertas del IICA y en este se encontrará la documentación de los proyectos realizados en el FabLab los cuales se enfocan en la innovación en agricultura digital y la industria 4.0 
 
  
 
